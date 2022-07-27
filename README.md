@@ -4,6 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sidiik&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidiik&layout=compact" />
+<br />
 
 ## My Hand tools 🔧
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"  />
