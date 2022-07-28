@@ -1,6 +1,6 @@
 # Hi there, I'm sidiik 🙋
 
-![](https://komarev.com/ghpvc/?username=your-github-sidiik&color=blueviolet&style=flat-square)
+## ![](https://komarev.com/ghpvc/?username=your-github-sidiik&color=blueviolet&style=flat-square)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sidiik&show_icons=true&theme=cobalt" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidiik&layout=compact" />
