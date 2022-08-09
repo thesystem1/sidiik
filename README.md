@@ -1,4 +1,4 @@
-# Hi there, I'm sidiik 🙋
+# Hi there, I'm sidiik 
 
 ![](https://komarev.com/ghpvc/?username=your-github-sidiik&color=blueviolet&style=flat-square)
 
