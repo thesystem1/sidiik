@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sidiik&show_icons=true&theme=cobalt" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidiik&layout=compact" />
-<img width="100%" height="200px" style="margin:"2rem 0" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=sidiik&theme=windows-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
 
 
 
@@ -22,6 +22,9 @@
 ## My contributions
 <img width="100%" src="https://github.com/sidiik/sidiik/blob/output/github-contribution-grid-snake.gif" />
 
+<br />
+
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=sidiik&theme=windows-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br />
 
