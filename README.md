@@ -24,7 +24,7 @@
 
 <br />
 
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=sidiik&theme=windows-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=sidiik&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br />
 
