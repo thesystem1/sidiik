@@ -28,8 +28,14 @@
 <img  src="https://img.shields.io/badge/html5-%23316192.svg?style=for-the-badge&logo=html5&logoColor=oranged" align="left"  />
 <br />
 <br />
+
 ## Operytem System 
 <img  src="https://img.shields.io/badge/Linux-%23316192.svg?style=for-the-badge&logo=Linux&logoColor=oranged" align="left"  />
+<img  src="https://img.shields.io/badge/mac-%23316192.svg?style=for-the-badge&logo=mac&logoColor=oranged" align="left"  />
+<img  src="https://img.shields.io/badge/windows-%23316192.svg?style=for-the-badge&logo=windows&logoColor=oranged" align="left"  />
+
+
+<br />
 
 ## Currently learning
 ...................
