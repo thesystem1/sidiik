@@ -26,6 +26,8 @@
 <img  src="https://img.shields.io/badge/.NETcore7-%23316192.svg?style=for-the-badge&logo=.NETcore7&logoColor=white" align="left"  />
 <img  src="https://img.shields.io/badge/tailwindcss-%23316192.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="left"  />
 <img  src="https://img.shields.io/badge/html5-%23316192.svg?style=for-the-badge&logo=html5&logoColor=oranged" align="left"  />
+<img  src="https://img.shields.io/badge/css3-%23316192.svg?style=for-the-badge&logo=css3&logoColor=oranged" align="left"  />
+<img  src="https://img.shields.io/badge/Adobe-Programms-%23316192.svg?style=for-the-badge&logo=Adobe&logoColor=oranged" align="left"  />
 <br />
 <br />
 
@@ -39,6 +41,7 @@
 
 ## Currently learning
 ...................
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="left"  />
+<img src="https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white" align="left"  />
+<img src="https://img.shields.io/badge/springboot-%23007ACC.svg?style=for-the-badge&logo=springboot&logoColor=white" align="left"  />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  align="left" />
 <img src="https://img.shields.io/badge/firebase-%23FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white" align="left" />
