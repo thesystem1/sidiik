@@ -19,20 +19,20 @@
 <img  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align="left"  />
 <img  src="https://img.shields.io/badge/.NETcore7-%23316192.svg?style=for-the-badge&logo=.NETcore7&logoColor=white" align="left"  /> 
 <img  src="https://img.shields.io/badge/entityFramework-%23316192.svg?style=for-the-badge&logo=EntityFramework&logoColor=white" align="left"  />
-<img  src="https://img.shields.io/badge/tailwindcss-%23316192.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="left"  />
+<img  src="https://img.shields.io/badge/tailwindcss-%23316192.svg?style=for-the-badge&logo=tailwindcss&logoColor=cyan" align="left"  />
 <img  src="https://img.shields.io/badge/html5-%23316192.svg?style=for-the-badge&logo=html5&logoColor=oranged" align="left"  />
-<img  src="https://img.shields.io/badge/css3-%23316192.svg?style=for-the-badge&logo=css3&logoColor=oranged" align="left"  />
+<img  src="https://img.shields.io/badge/css3-%23316192.svg?style=for-the-badge&logo=css3&logoColor=blue" align="left"  />
 <br />
 <br />
 
 ## Operytem System 
 <img  src="https://img.shields.io/badge/Linux-%23316192.svg?style=for-the-badge&logo=Linux&logoColor=oranged" align="left"  />
-<img  src="https://img.shields.io/badge/mac-%23316192.svg?style=for-the-badge&logo=mac&logoColor=oranged" align="left"  />
+<img  src="https://img.shields.io/badge/mac-%23316192.svg?style=for-the-badge&logo=mac&logoColor=white" align="left"  />
 
 
 <br />
 
 ## Currently learning
-<img src="https://img.shields.io/badge/Angular-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=white" align="left"  />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  align="left" />
+<img src="https://img.shields.io/badge/Angular-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=red" align="left"  />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=black"  align="left" />
 <img src="https://img.shields.io/badge/firebase-%23FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white" align="left" />
