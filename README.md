@@ -28,8 +28,6 @@
 
 
 <br />
-
-## Currently learning
 <img src="https://img.shields.io/badge/Angular-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=red" align="left"  />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=black"  align="left" />
 <img src="https://img.shields.io/badge/firebase-%23FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white" align="left" />
