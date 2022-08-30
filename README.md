@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-mohamedabdiahmed&color=blueviolet&style=flat-square)
 
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=mohamedabdiahmed&show_icons=true&theme=cobalt" />
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdiahmed&layout=compact" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mohamedabdiahmed&show_icons=true&theme=cobalt" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdiahmed&layout=compact" />
 
 <br />
 
