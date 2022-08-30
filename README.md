@@ -7,8 +7,6 @@
 
 <br />
 
-<br />
-
 ## Technology stack
 
 <img  src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%blue" align="left"  />
@@ -21,13 +19,6 @@
 <img  src="https://img.shields.io/badge/.NETcore7-%23316192.svg?style=for-the-badge&logo=microsoft&logoColor=" align="left"  /> 
 <img  src="https://img.shields.io/badge/tailwindcss-%23316192.svg?style=for-the-badge&logo=tailwindcss&logoColor=cyan" align="left"  />
 <img  src="https://img.shields.io/badge/linux-%23316192.svg?style=for-the-badge&logo=linux&logoColor=orange" align="left"  />
-
-<br />
-<br />
-
-
-
-<br />
 <img src="https://img.shields.io/badge/Angular-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=red" align="left"  />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=black"  align="left" />
 <img src="https://img.shields.io/badge/firebase-%23FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white" align="left" />
