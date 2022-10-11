@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/firebase-%23FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white" align="left" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" align="left" />
 <img src="https://img.shields.io/badge/Artificial Intelligence-%23FF9900.svg?style=for-the-badge&logo=Artificial-Intelligence&logoColor=white" align="left" />
+<img src="https://img.shields.io/badge/dart-%23FF9900.svg?style=for-the-badge&logo=dart&logoColor=white" align="left" />
+<img src="https://img.shields.io/badge/flutter-%23FF9900.svg?style=for-the-badge&logo=flutter&logoColor=white" align="left" />
 
 
 
